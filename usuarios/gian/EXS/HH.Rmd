@@ -1,0 +1,29 @@
+```{r data generation, echo = FALSE, results = "hide"}
+
+```
+
+Question
+========
+HHH
+
+Answerlist
+----------
+*FGFGF
+*FFF
+
+Solution
+========
+FFF
+
+Answerlist
+----------
+* Verdadeiro
+* Falso
+
+
+Meta-information
+================
+exname: FFF;;
+extype: schoice
+exsolution: 10
+exshuffle: 5
